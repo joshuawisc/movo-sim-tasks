@@ -4,7 +4,7 @@ Contains various scenes that simulate a Kinova Movo and various other interactab
 
 ## Requirements
 1. ROS
-2. [Movo Control ROS Package]()
+2. [Movo control ROS package](https://github.com/joshuawisc/movo-control-3)
 
 ## Instructions
 
@@ -23,15 +23,15 @@ The simulation works with the Xbox control system in the Movo control package.
 ### The simulation should be running and the robot should be controllable at this point
 
 ## Tasks (Scenes)
-1. movoScene - General scene to play around in
-2. movoStack - Stack blocks on opposite side of table
-3. movoMultipleTransfer - Transfer the blocks into the empty area on the desk
-4. movoMovingBlocks - Transfer the blocks off the belt
-5. movoLargeBlock - Grab the large block with both arms and move it across the table
-6. movoDoublePour - Pour the marbles from one glass to another
-7. movoMarker - Grab the marker and draw on the desk
-8. movoPointTouch - Point at a cube with the left arm and grab a cube with the same color with the right arm
-9. movoDoor - Grab handle and open and close door
-10. movoDrawer - Grab handle and open and close drawer
-11. movoFork - Stab object at and angle to pick them and make the fork vertical to drop the object
-12. movoSpoon - Grab the spoon and scoop the marbles from the table
+1. **movoScene** - General scene to play around in
+2. **movoStack** - Stack blocks on opposite side of table
+3. **movoMultipleTransfer** - Transfer the blocks into the empty area on the desk
+4. **movoMovingBlocks** - Transfer the blocks off the belt
+5. **movoLargeBlock** - Grab the large block with both arms and move it across the table
+6. **movoDoublePour** - Pour the marbles from one glass to another
+7. **movoMarker** - Grab the marker and draw on the desk
+8. **movoPointTouch** - Point at a cube with the left arm and grab a cube with the same color with the right arm
+9. **movoDoor** - Grab handle and open and close door
+10. **movoDrawer** - Grab handle and open and close drawer
+11. **movoFork** - Stab object at and angle to pick them and make the fork vertical to drop the object
+12. **movoSpoon** - Grab the spoon and scoop the marbles from the table
