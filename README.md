@@ -20,7 +20,7 @@ The simulation works with the Xbox control system in the Movo control package.
 6. In CoppeliaSim, open one of the scenes in the tasks folder
 7. Click play on the simulation
 
-### The simulation should be running and the robot should be controllable at this point
+#### The simulation should be running and the robot should be controllable at this point
 
 ## Tasks (Scenes)
 1. **movoScene** - General scene to play around in
